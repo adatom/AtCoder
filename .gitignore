@@ -1,0 +1,10 @@
+# Deny
+*
+
+# Allow
+!.gitignore
+!README.md
+!LICENSE
+!*/
+!*/*.cpp
+!/include/bits/stdc++.h
